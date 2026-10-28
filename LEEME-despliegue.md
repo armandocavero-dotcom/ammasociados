@@ -1,4 +1,4 @@
-# AMM Asociados — cómo publicar el sitio
+# AMM — cómo publicar el sitio
 
 Sitio estático (HTML + CSS) publicado con GitHub Pages en el dominio ammasociados.com.
 
